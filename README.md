@@ -3,7 +3,7 @@ This Game was created during MSSA as a collaboration project
 
 
 
-<img width="840" alt="SPACEGAME" src="https://user-images.githubusercontent.com/60155133/75011822-6bfd8c80-5435-11ea-83a5-48e9ea1988c0.png">
+<img width="840" alt="SPACEGAME" src="https://github.com/cjpleasant88/Space-Game/blob/master/Assets/Space%20Game%20Logo.png">
 
 On a mission to save Earth from a devastating fate. One man must become a cosmonaut
  Traversing through the cosmic voids of space defying the odds in order to beat the clock an obtain the rarest of substances that is UnOBTANIUM!
